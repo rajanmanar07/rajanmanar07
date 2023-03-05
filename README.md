@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rajanmanar07.io)
 <h1 align="center">Hello 👋, Welcome to my Github profile</h1>
 <h1 align="center">Hi , I'm Rajan Manar</h1>
-<h2 align="center">A passionate full stack developer </h2>
+<h2 align="center">A passionate full stack web developer </h2>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 
