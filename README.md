@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, Welcome to my Github profile</h1>
 <h1 align="center">Hi , I'm Rajan Manar</h1>
 <h2 align="center">A passionate full stack web developer </h2>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanmanar07&label=Profile%20views&color=0e75b6&style=flat" alt="rajanmanar07" /> </p>
